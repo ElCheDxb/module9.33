@@ -1,1 +1,2 @@
 Hello, that is test document
+New text added
